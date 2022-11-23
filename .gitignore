@@ -232,7 +232,6 @@ Content/BSP_StoopidAI/BSP_StoopidTurret/Blueprints/AI_Controller/StoopidTurret/B
 Content/BSP_StoopidAI/BSP_StoopidTurret/Blueprints/AI_Controller/StoopidTurret/BP_AI_Turret_Rotate.uasset
 Content/BSP_StoopidAI/BSP_StoopidTurret/Blueprints/AI_Controller/StoopidTurret/BT_Turret.uasset
 Content/BSP_StoopidAI/BSP_StoopidTurret/Blueprints/Characters/NPC/BP_NPC.uasset
-Content/BSP_StoopidAI/BSP_StoopidTurret/Blueprints/Characters/StoopidTurret/BP_StoopidTurret_Parent.uasset
 Content/BSP_StoopidAI/BSP_StoopidTurret/Blueprints/Characters/StoopidTurret/DataAssets/BP_DA_Turret_Example_1.uasset
 Content/BSP_StoopidAI/BSP_StoopidTurret/Blueprints/Characters/StoopidTurret/DataAssets/BP_DA_Turret_Example_2.uasset
 Content/BSP_StoopidAI/BSP_StoopidTurret/Blueprints/Characters/StoopidTurret/DataAssets/BP_DA_Turret_Example_3.uasset
